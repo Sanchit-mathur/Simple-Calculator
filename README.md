@@ -9,7 +9,7 @@ Using functions add(), subtract(), multiply() and divide() evaluate respective o
 
 Output:
 
-Please select operation -
+Please select operation-
 1. Add
 2. Subtract
 3. Multiply
